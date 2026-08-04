@@ -1,6 +1,9 @@
 # NovaMart
 
-A Java-based supermarket management system.
+Java-based supermarket management system.
 
-## Developer
-Livin Amal Raj
+## Team
+- Livin Amal Raj
+
+## Project Status
+Day 2 setup completed.
